@@ -1,0 +1,27 @@
+DreamSetter project is a project idea that is meant to 
+Show my abilities. it will include 
+-Front end Design
+-Login System/Logout System
+-Special Logins that give u special roles
+
+-Etc. Future ideas 
+
+
+Day one: 
+
+Goals: 
+X Create working class and Scene
+X Setup FXML file
+X Create website front
+X Add some CSS/ including Text and some design
+
+Day two: 
+
+X Create a way to test user name with hashmap
+X create set username and passwords to login 
+X Give alert if username/password is incorrect 
+
+
+Day Three: 
+-Create pages for admin 
+-create page for guest 
